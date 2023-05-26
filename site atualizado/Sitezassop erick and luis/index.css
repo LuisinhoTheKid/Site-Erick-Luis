@@ -1,0 +1,17 @@
+body{
+    background-image: url(perigosos.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: azure;
+    
+}
+.titulo {
+    font-family: 'fonte';
+}
+@font-face {
+    font-family:fonte;
+    src: url(DancingScript-Regular.ttf);
+}
+
+
